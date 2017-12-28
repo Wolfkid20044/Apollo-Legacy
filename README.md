@@ -29,6 +29,7 @@ Apollo is for all. Anyone can copy-paste generator and other features.
 ## Information
 
 - Need to communicate with us? Join our [discord](https://discord.gg/xBN3WR6) group!
+
 - We are a edited version of PmmP. We have edited their generators to our version and have improved the performance
 - You can download .phar from Circle CI. Tab to latest build,tap to artifacts selection, tap to DevTools and download Apollo1.0dev.phar
 
