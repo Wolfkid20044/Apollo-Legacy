@@ -77,4 +77,4 @@ Apollo is for all. Anyone can copy-paste generator and other features.
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
- Apollo-SoftwareTeam/Apollo-Legacy  is not affiliated with Mojang. All brands and trademarks belong to their respectfull owners Apollo-Legacy is not a Mojang-approved software, nor is it associated with Mojang.
+ Apollo-SoftwareTeam/Apollo-Legacy  is not affiliated with Mojang. All brands and trademarks belong to their respectfull owners Apollo-Legacy is not a Mojang-approved software, nor is it associated with Mojang..
